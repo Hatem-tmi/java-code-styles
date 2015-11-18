@@ -26,4 +26,4 @@ done
 
 echo "Done."
 echo ""
-echo "Restart IntelliJ and/or AndroidStudio, go to preferences, and apply 'DiginiumCodeStyle'."
+echo "Restart IntelliJ and/or AndroidStudio, go to preferences, and apply 'DiginiumGraphics'."
