@@ -19,8 +19,8 @@ do
     cp -frv "$CONFIGS/codestyles"/DiginiumGraphics.xml $i/codestyles
 
     # Install inspections
-    mkdir -p $i/inspection
-    cp -frv "$CONFIGS/inspection"/* $i/inspection
+    # mkdir -p $i/inspection
+    # cp -frv "$CONFIGS/inspection"/* $i/inspection
   fi
 done
 
